@@ -3,9 +3,13 @@ body {
 }
 
 h1 {
-  color: blue;
+  color: #44F;
 }
 
 h2 {
-  color: green;
+  color: #44F;
+}
+
+a {
+  color: yellow;
 }
