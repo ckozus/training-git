@@ -12,12 +12,25 @@ h2 {
   text-shadow: 12px 12px 12px #FF38DE;
 }
 
+h3{
+	color:#fff;
+}
+
 a {
-  color: yellow;
   text-shadow: 12px 12px 12px #FF38DE;
+  color:green ;
 }
 
 ul li {
   color: white;
   text-shadow: 12px 12px 12px #FF38DE;
 }
+
+ .lista{	
+	list-style-type:none;
+  margin-left: 0px;
+  padding-left: 0;
+  
+}
+
+
