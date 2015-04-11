@@ -10,10 +10,23 @@ h2 {
   color: #44F;
 }
 
+h3{
+	color:#fff;
+}
+
 a {
-  color: yellow;
+  color:green ;
 }
 
 ul li {
   color: white;
 }
+
+ .lista{	
+	list-style-type:none;
+  margin-left: 0px;
+  padding-left: 0;
+  
+}
+
+
