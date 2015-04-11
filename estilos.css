@@ -23,12 +23,13 @@ h2 {
 }
 
 h3{
-	color:#fe3;
+	color:#F2F2F2;
 }
 
 a {
   text-shadow: 12px 12px 12px #FF38DE;
   color:green ;
+  font-size: 20px;
 }
 
 ul li {
@@ -38,9 +39,27 @@ ul li {
 
  .lista{	
 	list-style-type:none;
-  margin-left: 0px;
+  margin-left: 10px;
   padding-left: 0;
   
 }
 
 
+.lista li {
+  display: inline;
+  padding-right: 5px;
+}
+
+p{
+  color:#fff;
+  font-size: 20px;
+}
+
+.imagenEstilo {
+  border-radius: 30%;
+}
+
+.container{
+  padding-left: 20%;
+  background-color: #D8D8D8;
+}
