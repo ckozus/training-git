@@ -4,16 +4,20 @@ body {
 
 h1 {
   color: #44F;
+  text-shadow: 12px 12px 12px #FF38DE;
 }
 
 h2 {
   color: #44F;
+  text-shadow: 12px 12px 12px #FF38DE;
 }
 
 a {
   color: yellow;
+  text-shadow: 12px 12px 12px #FF38DE;
 }
 
 ul li {
   color: white;
+  text-shadow: 12px 12px 12px #FF38DE;
 }
